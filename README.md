@@ -10,3 +10,6 @@ If you find a bug, feel free to contact me.
 You can find the package at https://test.pypi.org/project/LenButBettr/.
 
 ```pip install -i https://test.pypi.org/simple/ LenButBettr```
+
+LenButBettr for enterprise is available, email me for rates.
+
